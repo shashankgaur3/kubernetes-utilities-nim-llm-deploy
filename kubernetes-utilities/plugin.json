@@ -1,0 +1,13 @@
+{
+    "id": "kubernetes-utilities",
+    "version": "0.0.1",
+    "meta": {
+        "label": "Kubernetes Utilities",
+        "description": "Utilities for Kubernetes deployments with Dataiku DSS",
+        "author": "Xavier Thierry",
+        "icon": "icon-puzzle-piece",
+        "tags": ["Cloud", "Kubernetes", "Helm", "Monitoring"],
+        "url": "",
+        "licenseInfo": "Apache Software License"
+    }
+}
